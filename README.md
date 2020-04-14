@@ -2,7 +2,7 @@
 <img src="https://www.generalgoods.com.br/img/fonte%20branca.png" width="400" alt="Front-end Brasil">
 </p>
 <h1 align="center">Estartando Devs Admin Plataform</h1>
-<p align="center">This project is under development. We are using <a target="_blank" href="https://github.com/benwinding/react-admin-firebase">react-admin-firebase</a> based on <a target="_blank" href="https://marmelab.com/react-admin/">react-admin</p>
+<p align="center">This project is under development. We are using <a target="_blank" href="https://github.com/benwinding/react-admin-firebase">react-admin-firebase</a> based on <a target="_blank" href="https://marmelab.com/react-admin/">react-admin</a></p>
 
 ---
 
